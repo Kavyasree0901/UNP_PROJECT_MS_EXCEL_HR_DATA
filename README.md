@@ -13,3 +13,5 @@ Job Satisfaction: Average job satisfaction rating for employees in each departme
 Performance Rating:Average performance rating for employees in each department.
 
  Attrition Reasons: Common reasons cited for leaving in each department.
+
+ Link:https://www.canva.com/design/DAF76qK46v4/29zauRQ_qH-pBZb9rLJWfg/edit?utm_content=DAF76qK46v4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
