@@ -1,6 +1,10 @@
 # UNP_PROJECT_MS_EXCEL_HR_DATA
 
-**Key highlights of HR attrition data:**
+Completed this project as part of my Value Added Course on MS Excel  with United Network of Professionals(UNP)
+
+**Key Highlights :**
+
+Analysed various reasons for attrition
 
 Employee Turnover: Total number of employees who left each department.
 
